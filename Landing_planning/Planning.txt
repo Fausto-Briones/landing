@@ -1,0 +1,11 @@
+Create sections menu
+Competitive P. Landing page
+Hook attention to international olympiads (IOI and EGOI)
+Show info of the current competition (Like a join now)
+Show past competitions and comming competitions
+Show sponsors, show material
+Create a sections for news
+
+Sections: form section: mail suscriptions for competitions. Competitions Section. First section show info of the currente competition. Sponsors section.
+
+Assets source: ioinformatics, codeforces, icpc
