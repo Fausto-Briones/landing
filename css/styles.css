@@ -104,6 +104,26 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+#icono_trofeo{
+  position: relative;
+  left: 130px; 
+  top: 10px;
+  bottom: 100px; 
+  color:#0c63e4;
+}
+
+#arrow{
+  position: relative;
+  left: 130px; 
+  top: 10px;
+  bottom: 100px; 
+  color:#0c63e4;
+  width:200px;
+  height:300px;
+  
+}
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
